@@ -31,7 +31,7 @@ describe(bikeRent)
 #getting column names
 names(bikeRent)
 
-#DATA PREPARATION----------------------------------------------------------------------------------------------------------------------------------------------
+#DATA PREPARATION--------------------------------------------------------------------------------------------------------------------------------------------
 
 #creating new dataset for EXPLORTORY DATA ANALYSIS with proper column names
 data = bikeRent
