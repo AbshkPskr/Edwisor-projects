@@ -1,11 +1,10 @@
 # Project Name - Employee Absenteeism
 __Project Description and Problem statement -__
+
 XYZ is a courier company. As we appreciate that human capital plays an important role in collection, transportation and delivery. The company is passing through genuine issue of Absenteeism. The company has shared it dataset and requested to have an answer on the following areas:
 1. What changes company should bring to reduce the number of absenteeism?
-2. How much losses every month can we project in 2011 if same trend of
-absenteeism continues?
+2. How much losses every month can we project in 2011 if same trend of absenteeism continues?
 
-Build suitable model (both R and Python) to answer the above two questions with a proper report [sample report](https://s3-ap-southeast-1.amazonaws.com/edwisor-india-bucket/study-material/data/sample-report.pdf)
 
 ### Dataset Details:
 Dataset Characteristics: Timeseries Multivariant
