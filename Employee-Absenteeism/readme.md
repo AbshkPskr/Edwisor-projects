@@ -14,9 +14,8 @@ Missing Values : Yes
 
 ### Attribute Information:
 1. Individual identification (ID)
-2. Reason for absence (ICD).
-Absences attested by the International Code of Diseases (ICD) stratified into 21
-categories (I to XXI) as follows:
+2. Reason for absence (ICD). <br>
+Absences attested by the International Code of Diseases (ICD) stratified into 21 categories (I to XXI) as follows:
     - I Certain infectious and parasitic diseases
     - II Neoplasms
     - III Diseases of the blood and blood-forming organs and certain disorders involving the
