@@ -1,4 +1,4 @@
-## EDWISOR Data science career path projects.
+## Edwisor Data science career path projects.
 
 This repository contains two data science project completed for the course currriculum of Edwisor data science career path.<br><br>
 
