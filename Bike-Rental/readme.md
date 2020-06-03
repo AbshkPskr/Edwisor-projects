@@ -20,11 +20,10 @@ The details of data attributes in the dataset are as follows-
 -  Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
 -  Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
 -  Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog
-11. temp: Normalized temperature in Celsius. The values are derived via
-(t-t_min)/(t_max-t_min),
-t_min=-8, t_max=+39 (only in hourly scale)
-12. atemp: Normalized feeling temperature in Celsius. The values are derived via
-(t-t_min)/(t_maxt_min), t_min=-16, t_max=+50 (only in hourly scale)
+11. temp: Normalized temperature in Celsius.
+- The values are derived via (t-t_min)/(t_max-t_min), t_min=-8, t_max=+39 (only in hourly scale)
+12. atemp: Normalized feeling temperature in Celsius.
+- The values are derived via (t-t_min)/(t_maxt_min), t_min=-16, t_max=+50 (only in hourly scale)
 13. hum: Normalized humidity. The values are divided to 100 (max)
 14. windspeed: Normalized wind speed. The values are divided to 67 (max)
 15. casual: count of casual users
