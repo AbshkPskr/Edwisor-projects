@@ -7,8 +7,8 @@ XYZ is a courier company. As we appreciate that human capital plays an important
 
 
 ### Dataset Details:
-Dataset Characteristics: Timeseries Multivariant
-Number of Attributes: 21
+Dataset Characteristics: Timeseries Multivariant<br>
+Number of Attributes: 21<br>
 Missing Values : Yes
 
 ### Attribute Information:
